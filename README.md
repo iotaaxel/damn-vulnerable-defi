@@ -16,18 +16,18 @@ DO NOT USE IN PRODUCTION.
 
 ## TODO
 
-| Challenge | Status | 
-|     :---:      |     :---:      |
-| Unstoppable    | WIP     |
-| Naive receiver   | WIP     |
-| Truster   | WIP     |
-| Side entrance   | WIP     |
-| The rewarder   | WIP     |
-| Selfie   | WIP     |
-| Compromised   | WIP     |
-| Puppet   | WIP     |
-| Puppet v2   | WIP     |
-| Free rider   | WIP     |
-| Backdoor   | WIP     |
-| Climber   | WIP     |
-| Safe miners   | WIP     |
+| Challenge | Status | Write-up | 
+|     :---:      |     :---:      |     :---:      |
+| Unstoppable    | WIP     | [write-up](https://github.com/iotaaxel/damn-vulnerable-defi/blob/dev/writeups/unstoppable.md)     |
+| Naive receiver   | WIP     | WIP     |
+| Truster   | WIP     | WIP     |
+| Side entrance   | WIP     | WIP     |
+| The rewarder   | WIP     | WIP     |
+| Selfie   | WIP     | WIP     |
+| Compromised   | WIP     | WIP     |
+| Puppet   | WIP     | WIP     |
+| Puppet v2   | WIP     | WIP     |
+| Free rider   | WIP     | WIP     |
+| Backdoor   | WIP     | WIP     |
+| Climber   | WIP     | WIP     |
+| Safe miners   | WIP     | WIP     |
