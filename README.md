@@ -18,7 +18,7 @@ DO NOT USE IN PRODUCTION.
 
 | Challenge | Status | Write-up | 
 |     :---:      |     :---:      |     :---:      |
-| Unstoppable    | WIP     | [write-up](writeups/unstoppable.md)     |
+| Unstoppable    | SUCCESS     | [write-up](writeups/unstoppable.md)     |
 | Naive receiver   | WIP     | [write-up](writeups/naivereceiver.md)  |
 | Truster   | WIP     | [write-up](writeups/truster.md)     |
 | Side entrance   | WIP     | [write-up](writeups/sideentrance.md)     |
